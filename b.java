@@ -8,5 +8,5 @@
  * @author ieren
  */
 public class b {
-    
+    int c;
 }
