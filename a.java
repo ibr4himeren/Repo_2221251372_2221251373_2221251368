@@ -9,5 +9,5 @@ package com.mycompany.mavenproject4;
  * @author ieren
  */
 public class a {
-    
+    int a;
 }
