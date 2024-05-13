@@ -9,4 +9,5 @@
  */
 public class b {
     int c;
+    int c2;
 }
